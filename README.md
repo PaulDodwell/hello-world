@@ -1,2 +1,2 @@
 # hello-world
-testing
+This is a bit of editing of the readme file
